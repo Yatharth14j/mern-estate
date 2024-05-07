@@ -12,9 +12,6 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
-//nQilR3gVui601BTw
-//yatharth
-//mongodb+srv://yatharth:<password>@mern-estate.ndnqzmc.mongodb.net/
 
 app.listen(3000, () => {
   console.log("Server is running on port 3000!!");
